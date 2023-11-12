@@ -20,5 +20,8 @@
   },
   "jest": {
     "preset": "react-native"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
